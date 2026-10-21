@@ -1,6 +1,6 @@
 # Shiras Sharaf
 
-### Full Stack Developer & Team Lead @ HYZ Ventures
+### Full Stack Developer & Team Lead
 
 Full Stack Developer building **ERP, CRM, LMS, HRMS and banking systems** with **ASP.NET Core**, **Angular**, **React** and **Laravel**.
 
@@ -11,7 +11,7 @@ Full Stack Developer building **ERP, CRM, LMS, HRMS and banking systems** with *
 
 ## About
 
-- Team Lead at **HYZ Ventures**, Technopark, delivering end-to-end business applications from architecture to deployment
+- Team Lead delivering end-to-end business applications from architecture to deployment
 - Build live platforms for education, finance, agriculture, HR and cybersecurity organizations
 - Implement **role-based access control (RBAC)**, hierarchical authorization, attendance and reporting modules in every project
 - Integrate **AI (Groq)** for content generation and exam proctoring
@@ -61,7 +61,7 @@ Most of my work is in private repositories (company and client projects). These 
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **HGB Fin** ([live](https://hgbfin.com/)) | ASP.NET Core, React, PostgreSQL | Banking and savings scheme system for HYZ Global Business with customer and admin portals, advanced attendance, reporting and hierarchical authorization, serving 200–500 users |
+| **HGB Fin** ([live](https://hgbfin.com/)) | ASP.NET Core, React, PostgreSQL | Banking and savings scheme system with customer and admin portals, advanced attendance, reporting and hierarchical authorization, serving 200–500 users |
 | **TeamFlow HRMS** | ASP.NET Core, Angular, PostgreSQL | Multi-company HRMS and task management with real-time notifications, hierarchical attendance, per-company branding and Excel/PDF reporting |
 | **Technical Education Council CRM** ([live](https://crm.technicaleducationcouncil.org/)) | Laravel, MySQL | Customer relationship and business management with lead allocation, activity tracking and full reporting |
 | **Agrocops Outlet System** ([live](https://outlet.agrocops.org/)) | Laravel, MySQL | Order processing, lead management, document generation and workflow automation for a private agricultural organization serving farmers across Kerala |
