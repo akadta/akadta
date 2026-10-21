@@ -1,115 +1,97 @@
-<div align="center">
+# Shiras Sharaf
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shiras%20Sharaf&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Team%20Lead&descSize=20&descAlignY=60" alt="Shiras Sharaf" />
+**Team Lead & Full Stack Developer** at HYZ Ventures, Technopark, Kerala, India
 
-<a href="https://github.com/akadta">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F7B731&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Shiras+Sharaf;Team+Lead+%40+HYZ+Ventures;Laravel+%C2%B7+React+%C2%B7+ASP.NET+Core+%C2%B7+Node.js;I+build+ERP%2C+CRM%2C+LMS+%26+banking+apps;Docker+%C2%B7+CI%2FCD+%C2%B7+GitHub+Actions" alt="Typing intro" />
-</a>
+I design, build and deploy production business systems: ERP, CRM, learning and exam platforms, banking and HR applications, with secure role-based access control built in from the start.
 
-<img src="https://komarev.com/ghpvc/?username=akadta&label=Profile+views&color=ff4757&style=for-the-badge" alt="Profile views" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiras-sharaf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shirassharaf.official@gmail.com)
 
 ---
 
-## 🚀 About me
+## About
 
-- 👨‍💻 Team Lead & Full Stack Developer at **HYZ Ventures**, Technopark
-- 🏗️ I design and ship end-to-end business apps: **ERP, CRM, LMS, banking and AI-integrated systems**
-- ⚙️ I set up **Docker** and **GitHub Actions / Jenkins** pipelines, and deploy to Linux VPS with **Nginx**
-- 🛰️ I also design satellite security prototypes with the **Cyber Intelligence Corps** department
-- 🧪 I test with **Playwright (UI & API)**, **Selenium** and **Apache JMeter**
-- 🤝 I work in **Agile** teams and track work in **Jira**
-- 📍 Based in Kottayam, Kerala, India
-
----
-
-## 🛠️ When I code, I rely on
-
-<div align="center">
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-**Databases & ORMs**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**DevOps, Testing & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-
-</div>
+- Lead a development team at **HYZ Ventures**, delivering end-to-end web applications from architecture to deployment
+- Build and maintain live platforms for education, finance, agriculture, HR and cybersecurity organizations
+- Implement **role-based access control (RBAC)**, hierarchical authorization, attendance and reporting modules across all projects
+- Set up **Docker** and **CI/CD** pipelines (GitHub Actions, Jenkins) and deploy to Linux servers with **Nginx**
+- Integrate **AI (Groq)** into products for content generation and exam proctoring
+- Work with the **Cyber Intelligence Corps** on satellite security and bug bounty platforms
+- Test with **Playwright**, **Selenium** and **Apache JMeter**; work in **Agile** teams using **Jira**
+- Based in Kottayam, Kerala, India
 
 ---
 
-## 📦 Featured work
+## Technical Skills
 
-> Most of my work lives in **private repositories** (company and client projects), so here is what I have built.
+| Area | Technologies |
+|------|--------------|
+| **Frontend** | React, Next.js, Angular, Vue.js, TypeScript, JavaScript, HTML5, CSS3 |
+| **Backend** | ASP.NET Core (C#), Laravel (PHP), Node.js, Express, FastAPI, Django, Spring Boot |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Prisma, Entity Framework |
+| **DevOps** | Docker, GitHub Actions, Jenkins, Nginx, Linux (VPS) |
+| **Testing** | Playwright (UI and API), Selenium, Apache JMeter |
+| **Tools** | Git, GitHub, Jira |
 
-| Project | Stack | What it does |
-|---|---|---|
-| 🤖 **AI-Proctored Exam & Learning Management System** | React · ASP.NET Core · PostgreSQL · Groq AI | LMS with camera-based identity monitoring and tab-switch detection, used by 50–200 students |
-| 🏦 **HGB Fin Banking System** | React · ASP.NET Core · PostgreSQL | Core banking and savings schemes, serving 200–500 users |
-| 🏢 **Business Management System (Agrocorp)** | Laravel · Blade · MySQL | Order processing, lead management, PDF/Word generation and workflow automation |
-| 📇 **Customer Management System** | Laravel · Blade · MySQL | Lead allocation to sales staff with activity tracking and full history |
-| 📖 **AI-Integrated Book Design System** | React · Express · PostgreSQL · Groq AI | Book design platform with AI-generated content and text suggestions |
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akadta&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-
-<img src="https://streak-stats.demolab.com?user=akadta&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak" />
-
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-## 🤝 Let's connect
+## Production Projects
 
-<div align="center">
+Most of my work is in private repositories (company and client projects). The systems below are live in production.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiras-sharaf)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shirassharaf.official@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akadta)
+### Education & Exam Platforms
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **Technical Education Council: Exam Management** | ASP.NET Core, React, PostgreSQL | AI-powered exam management system for students, with AI proctoring |
+| **LearnHub** ([live](https://learnhub.cyberintelligencecorps.com/)) | React, Express, PostgreSQL | Learning management and exam platform for Cyber Intelligence Corps students, with video learning and assessments |
+| **Agrocops Employee Portal** | Laravel, MySQL | Exam management portal for Agrocops employees |
 
-</div>
+### Finance & Business Systems
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **HGB Fin** ([live](https://hgbfin.com/)) | ASP.NET Core, React, PostgreSQL | Banking and savings scheme system for HYZ Global Business, with customer portal, admin portal, advanced attendance, reporting and hierarchical authorization |
+| **Technical Education Council: CRM** | Laravel, MySQL | Customer relationship and business management with lead allocation, activity tracking and full reporting |
+| **Agrocops Outlet System** ([live](https://outlet.agrocops.org/)) | Laravel, MySQL | Order processing, lead management, document generation and workflow automation for a private agricultural organization serving farmers across Kerala |
+
+### Enterprise & Security Platforms
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **HRMS & Task Management Platform** | ASP.NET Core, Angular, PostgreSQL | Human resource management with advanced attendance, hierarchical structure and task management |
+| **Satellite Bug Bounty Platform** | Angular, ASP.NET Core, PostgreSQL | Bug bounty platform for Cyber Intelligence Corps with advanced administrative controls |
+
+### Design & Content Tools
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **Proxerp Design System** ([live](https://design.proxerp.in/)) | React, Express, PostgreSQL | Design platform for posters and books, with AI content generation, Manglish transliteration and translation |
+
+---
+
+## Engineering Focus
+
+- **Security & access control:** RBAC, hierarchical permissions and audit-friendly workflows
+- **Reporting & analytics:** attendance, financial and operational reports
+- **AI integration:** content generation, assessment generation and proctoring
+- **Scalable delivery:** containerized deployments, CI/CD and Linux server management
+- **Quality:** automated UI, API and load testing
+
+---
+
+## Contact
+
+- LinkedIn: [shiras-sharaf](https://www.linkedin.com/in/shiras-sharaf)
+- Email: [shirassharaf.official@gmail.com](mailto:shirassharaf.official@gmail.com)
