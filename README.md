@@ -12,6 +12,7 @@ Full Stack Developer building **ERP, CRM, LMS, HRMS and banking systems** with *
 ## About
 
 - Team Lead delivering end-to-end business applications from architecture to deployment
+- Built an **AI-proctored LMS and exam platform** with fully configurable camera-based identity monitoring and tab-switch detection, live with 50–200 students
 - Build live platforms for education, finance, agriculture, HR and cybersecurity organizations
 - Implement **role-based access control (RBAC)**, hierarchical authorization, attendance and reporting modules in every project
 - Set up **Docker** and **CI/CD** pipelines (GitHub Actions, Jenkins) and deploy to Linux servers with **Nginx**
@@ -19,17 +20,7 @@ Full Stack Developer building **ERP, CRM, LMS, HRMS and banking systems** with *
 - Test with **Playwright**, **Selenium** and **Apache JMeter**; work in **Agile** teams using **Jira**
 - Based in Kottayam, Kerala, India
 
-### 🛡️ Featured: AI-Proctored Learning & Exam Platform
 
-I designed and built a complete learning and exam management platform with an integrated **proctoring engine** that protects exam integrity without a human invigilator:
-
-- **Camera-based identity monitoring** during exams
-- **Tab-switch and focus-loss detection** to flag suspicious behavior
-- **Fully configurable proctoring**: administrators and faculty decide which checks apply to each course and assessment
-- **Proctoring reports for faculty** to review flagged events per student attempt
-- **AI-generated courses, modules and question banks** powered by Groq
-- **Role-based control** for admins, faculty and students, with batch-wise course allocation and progress tracking
-- Live in production, used by 50–200 students
 
 ---
 
