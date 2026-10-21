@@ -14,11 +14,22 @@ Full Stack Developer building **ERP, CRM, LMS, HRMS and banking systems** with *
 - Team Lead delivering end-to-end business applications from architecture to deployment
 - Build live platforms for education, finance, agriculture, HR and cybersecurity organizations
 - Implement **role-based access control (RBAC)**, hierarchical authorization, attendance and reporting modules in every project
-- Integrate **AI (Groq)** for content generation and exam proctoring
 - Set up **Docker** and **CI/CD** pipelines (GitHub Actions, Jenkins) and deploy to Linux servers with **Nginx**
 - Work with the **Cyber Intelligence Corps** on satellite security and bug bounty platforms
 - Test with **Playwright**, **Selenium** and **Apache JMeter**; work in **Agile** teams using **Jira**
 - Based in Kottayam, Kerala, India
+
+### 🛡️ Featured: AI-Proctored Learning & Exam Platform
+
+I designed and built a complete learning and exam management platform with an integrated **proctoring engine** that protects exam integrity without a human invigilator:
+
+- **Camera-based identity monitoring** during exams
+- **Tab-switch and focus-loss detection** to flag suspicious behavior
+- **Fully configurable proctoring**: administrators and faculty decide which checks apply to each course and assessment
+- **Proctoring reports for faculty** to review flagged events per student attempt
+- **AI-generated courses, modules and question banks** powered by Groq
+- **Role-based control** for admins, faculty and students, with batch-wise course allocation and progress tracking
+- Live in production, used by 50–200 students
 
 ---
 
@@ -53,7 +64,7 @@ Most of my work is in private repositories (company and client projects). These 
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **Technical Education Council: AI Exam Management** ([live](https://admin-exam.technicaleducationcouncil.in/)) | ASP.NET Core, React, PostgreSQL, Groq AI | AI-powered learning and exam platform with AI course generation, camera-based proctoring and tab-switch detection, used by 50–200 students |
+| **Technical Education Council: AI Exam Management** ([live](https://admin-exam.technicaleducationcouncil.in/)) | ASP.NET Core, React, PostgreSQL, Groq AI | AI-proctored learning and exam platform with configurable camera monitoring and tab-switch detection, AI course and question generation, video learning and faculty review reports, used by 50–200 students |
 | **LearnHub** ([live](https://learnhub.cyberintelligencecorps.com/)) | React, Express, PostgreSQL | Learning management and exam platform for Cyber Intelligence Corps students |
 | **Agrocops Employee Portal** ([live](https://employee.agrocops.org/)) | Laravel, MySQL | Exam management portal for Agrocops employees |
 
@@ -77,6 +88,7 @@ Most of my work is in private repositories (company and client projects). These 
 
 ## Engineering Focus
 
+- **Exam integrity:** configurable AI proctoring with identity monitoring and behavior detection
 - **Security and access control:** RBAC, hierarchical permissions and audit-friendly workflows
 - **Reporting and analytics:** attendance, financial and operational reports with Excel and PDF export
 - **AI integration:** content generation, assessment generation and proctoring
