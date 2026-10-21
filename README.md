@@ -99,8 +99,6 @@
 
 <img src="https://streak-stats.demolab.com?user=akadta&theme=radical&hide_border=true&background=0d1117" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akadta&theme=react-dark&hide_border=true&bg_color=0d1117&color=f7b731&line=ff4757&point=ffffff" alt="Contribution graph" />
-
 </div>
 
 ---
